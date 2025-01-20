@@ -1,6 +1,6 @@
 {
-  "name": "@nestjs/throttler",
-  "version": "6.3.0",
+  "name": "@andybeat/throttler",
+  "version": "1.0.0",
   "description": "A Rate-Limiting module for NestJS to work on Express, Fastify, Websockets, Socket.IO, and GraphQL, all rolled up into a simple package.",
   "author": "Jay McDoniel <me@jaymcdoniel.dev>",
   "contributors": [],
@@ -116,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nestjs/throttler.git"
+    "url": "https://github.com/AndyBeat/nestjs-throttler.git"
   },
   "bugs": {
     "url": "https://github.com/nestjs/throttler/issues"
